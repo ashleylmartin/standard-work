@@ -35,7 +35,7 @@ layout:
 
 <details>
 
-<summary>Benefits of Standard Work</summary>
+<summary><strong>Benefits of Standard Work</strong></summary>
 
 * **Consistency:** Reduces variability and ensures tasks are performed uniformly.
 * **Quality Improvement:** Minimizes errors and defects.
@@ -54,7 +54,7 @@ layout:
 
 </details>
 
-## Standard Work Steps & Procedures
+### Standard Work Procedures
 
 {% stepper %}
 {% step %}
