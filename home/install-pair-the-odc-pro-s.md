@@ -13,13 +13,13 @@ layout:
     visible: true
 ---
 
-# Install/Pair the ODC Pro(s)
+# 8. Install/Pair the ODC Pro(s)
 
 <div align="left"><figure><img src="../.gitbook/assets/web_use-SpotlightPro-Swappable.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
-#### Install the [ODC Pro](https://prosource.vivint.com/sop-odc-pro-gen2/)(s).
+#### Install the ODC Pro(s).
 
 * Use the AirPort Utility app to identify the best location for the Wi-Fi bridge.
   * Must be -65 or better from the Wi-Fi bridge to the panel.
@@ -32,3 +32,8 @@ layout:
   * If installing multiple ODC’s, repeat steps 1 and 2.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[ODC Pro on ProSource](https://prosource.vivint.com/sop-odc-pro-gen2/)
+{% endhint %}
+

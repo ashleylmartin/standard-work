@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Run Installer Test
+# 12. Run Installer Test
 
 <div align="left"><figure><img src="../.gitbook/assets/web_use-20240628-Inland-Empire-SHP-SteveWarner-0736.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -26,3 +26,8 @@ layout:
 3. Install repeaters or networking solutions based on the Installer test results.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[Networking Diagnostics on ProSource](https://prosource.vivint.com/network-diagnostics-sop/)
+{% endhint %}
+

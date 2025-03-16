@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Power Up/Flash the Panel
+# 1. Power Up/Flash the Panel
 
 <div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -26,3 +26,8 @@ Power up the panel with your desk mount (SH2-RFLSH) and begin the [USB rapid fla
 * Location does not matter for updating the panel.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[Smart Hub on ProSource](https://prosource.vivint.com/sop-smart-hub/)
+{% endhint %}
+

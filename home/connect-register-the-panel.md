@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Connect/Register the Panel
+# 4. Connect/Register the Panel
 
 <div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -27,3 +27,8 @@ layout:
   * Speed up troubleshooting if you need to contact Field Tech Support.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[Smart Hub on ProSource](https://prosource.vivint.com/sop-smart-hub/)
+{% endhint %}
+

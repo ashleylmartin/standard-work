@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Program/Install Sensors
+# 11. Program/Install Sensors
 
 <div><figure><img src="../.gitbook/assets/web_use-Smoke-CO-Swappable.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-GlassBreak-Swappable.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-Motion.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -30,3 +30,8 @@ layout:
 #### Install all sensors in their final locations.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[Sensors on ProSource](https://prosource.vivint.com/product-library/)
+{% endhint %}
+

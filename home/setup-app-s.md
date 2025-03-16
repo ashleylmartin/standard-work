@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Setup App(s)
+# 5. Setup App(s)
 
 <div align="left"><figure><img src="../.gitbook/assets/web_use-Phone-Swappable.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -30,3 +30,8 @@ Send invite for [Vivint App](https://prosource.vivint.com/vivint-app/) and have 
 If installing MyQ, instruct customer to download the MyQ app and create account.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[Vivint App on ProSource](https://prosource.vivint.com/vivint-app/)
+{% endhint %}
+

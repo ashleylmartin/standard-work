@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Mount the Panel
+# 6. Mount the Panel
 
 <div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -33,3 +33,8 @@ layout:
    1. Use anchors if mounted to drywall.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+[Smart Hub on ProSource](https://prosource.vivint.com/sop-smart-hub/)
+{% endhint %}
+
