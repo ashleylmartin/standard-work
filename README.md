@@ -12,7 +12,7 @@ layout:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: true
   tableOfContents:
@@ -53,10 +53,6 @@ layout:
 * **DO NOT** pair any devices with the panel on battery power.
 
 </details>
-
-## Standard Work Procedures
-
-***
 
 {% stepper %}
 {% step %}
