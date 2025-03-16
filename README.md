@@ -27,7 +27,7 @@ layout:
 
 <details>
 
-<summary><strong>What is "Standard Work?"</strong></summary>
+<summary>What is "Standard Work?"</summary>
 
 **Standard Work** is a detailed and documented description of the most efficient, effective, and consistent way to perform a specific task or process. Standard Work establishes a baseline for how tasks should be performed, ensuring quality, efficiency, and safety while providing a foundation for continuous improvement.
 
@@ -35,7 +35,7 @@ layout:
 
 <details>
 
-<summary><strong>Benefits of Standard Work</strong></summary>
+<summary>Benefits of Standard Work</summary>
 
 * **Consistency:** Reduces variability and ensures tasks are performed uniformly.
 * **Quality Improvement:** Minimizes errors and defects.
@@ -46,7 +46,7 @@ layout:
 
 <details>
 
-<summary><strong>Pro Tips</strong></summary>
+<summary>Pro Tips</summary>
 
 * Always follow all [Safety protocols](https://prosource.vivint.com/sop-library/#button-general_safety).
 * Multi-task while waiting for updates to complete.
