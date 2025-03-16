@@ -1,2 +1,0 @@
-# Pair Automation Devices
-

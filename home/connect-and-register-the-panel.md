@@ -1,2 +1,0 @@
-# Connect & Register the Panel
-
