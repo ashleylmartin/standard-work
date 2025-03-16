@@ -15,11 +15,11 @@ layout:
 
 # Install the DBC Pro
 
-
+<div align="left"><figure><img src="../.gitbook/assets/web_use-DBCP-Swappable.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
-### Install the [DBC Pro](https://prosource.vivint.com/sop-dbc-pro-gen2/).
+#### Install the [DBC Pro](https://prosource.vivint.com/sop-dbc-pro-gen2/).
 
 * The DBC will be in a fixed location. It needs to be installed first to help determine where the panel is going to be located.
 {% endstep %}

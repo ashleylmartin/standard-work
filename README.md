@@ -115,5 +115,3 @@ layout:
 #### [Customer Instructions](home/customer-instructions.md)
 {% endstep %}
 {% endstepper %}
-
-***

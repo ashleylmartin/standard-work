@@ -15,17 +15,18 @@ layout:
 
 # Setup App(s)
 
+<div align="left"><figure><img src="../.gitbook/assets/web_use-Phone-Swappable.jpg" alt=""><figcaption></figcaption></figure></div>
+
 {% stepper %}
 {% step %}
-### Vivint App
+#### Vivint App
 
 Send invite for [Vivint App](https://prosource.vivint.com/vivint-app/) and have customer create account.
 {% endstep %}
 
 {% step %}
-### MyQ App
+#### MyQ App
 
 If installing MyQ, instruct customer to download the MyQ app and create account.
 {% endstep %}
 {% endstepper %}
-

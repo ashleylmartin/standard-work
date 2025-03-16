@@ -15,9 +15,11 @@ layout:
 
 # Run Installer Test
 
+<div align="left"><figure><img src="../.gitbook/assets/web_use-20240628-Inland-Empire-SHP-SteveWarner-0736.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+
 {% stepper %}
 {% step %}
-### Run Installer test.
+#### Run Installer test.
 
 1. All devices must be in their final locations before starting the Installer test.
 2. **DO NOT** test cameras or sensors with them next to the panel. You need to ensure that they are working properly from their final locations.

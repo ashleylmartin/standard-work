@@ -15,15 +15,14 @@ layout:
 
 # Power Up/Flash the Panel
 
+<div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
 {% stepper %}
 {% step %}
-### Power Up and Flash the Panel
+#### Power Up and Flash the Panel
 
 Power up the panel with your desk mount (SH2-RFLSH) and begin the [USB rapid flash](https://prosource.vivint.com/pre-install-usb-update-sop/).
 
 * Location does not matter for updating the panel.
-
-
 {% endstep %}
 {% endstepper %}
-
