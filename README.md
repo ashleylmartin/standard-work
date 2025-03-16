@@ -56,6 +56,8 @@ layout:
 
 ## Standard Work Procedures
 
+***
+
 {% stepper %}
 {% step %}
 #### [Power Up/Flash the Panel](home/power-up-flash-the-panel.md)
@@ -113,3 +115,5 @@ layout:
 #### [Customer Instructions](home/customer-instructions.md)
 {% endstep %}
 {% endstepper %}
+
+***
