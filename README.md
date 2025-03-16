@@ -6,11 +6,11 @@ description: >-
 noRobotsIndex: true
 icon: door-open
 cover: .gitbook/assets/20240628-Inland-Empire-SHP-SteveWarner-1147.jpg
-coverY: 103
+coverY: 157.05866666666665
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -40,11 +40,11 @@ layout:
 
 <summary><strong>PRO TIPS</strong></summary>
 
-·      Always follow all [Safety protocols](https://prosource.vivint.com/sop-library/#button-general_safety).
+· Always follow all [Safety protocols](https://prosource.vivint.com/sop-library/#button-general_safety).
 
-·      Multi-task while waiting for updates to complete.
+· Multi-task while waiting for updates to complete.
 
-·      DO NOT pair any devices with the panel on battery power.
+· DO NOT pair any devices with the panel on battery power.
 
 </details>
 
