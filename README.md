@@ -5,12 +5,12 @@ description: >-
   baseline for quality, efficiency, and safety.
 noRobotsIndex: true
 icon: door-open
-cover: .gitbook/assets/20240628-Inland-Empire-SHP-SteveWarner-1147.jpg
-coverY: 157.05866666666665
+cover: .gitbook/assets/Standard Work Web Banner.png
+coverY: -21.72
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -60,58 +60,58 @@ layout:
 
 {% stepper %}
 {% step %}
-#### [Power Up/Flash the Panel](home/power-up-flash-the-panel.md)
+[**Power Up/Flash the Panel**](home/power-up-flash-the-panel.md)
 {% endstep %}
 
 {% step %}
-#### [Zigbee Bridge](home/zigbee-bridge.md)
+[**Zigbee Bridge**](home/zigbee-bridge.md)
 {% endstep %}
 
 {% step %}
-#### [Install the DBC Pro](home/install-the-dbc-pro.md)
+[**Install the DBC Pro**](home/install-the-dbc-pro.md)
 {% endstep %}
 
 {% step %}
-#### [Connect/Register the Panel](home/connect-register-the-panel.md)
+[**Connect/Register the Panel**](home/connect-register-the-panel.md)
 {% endstep %}
 
 {% step %}
-#### [Setup App(s)](home/setup-app-s.md)
+[**Setup App(s)**](home/setup-app-s.md)
 {% endstep %}
 
 {% step %}
-#### [Mount the Panel](home/mount-the-panel.md)
+[**Mount the Panel**](home/mount-the-panel.md)
 {% endstep %}
 
 {% step %}
-#### [Pair the DBC Pro](home/pair-the-dbc-pro.md)
+[**Pair the DBC Pro**](home/pair-the-dbc-pro.md)
 {% endstep %}
 
 {% step %}
-#### [Install/Pair the ODC Pro(s)](home/install-pair-the-odc-pro-s.md)
+[**Install/Pair the ODC Pro(s)**](home/install-pair-the-odc-pro-s.md)
 {% endstep %}
 
 {% step %}
-#### [Pair the IDC Pro(s)](home/pair-the-idc-pro-s.md)
+[**Pair the IDC Pro(s)**](home/pair-the-idc-pro-s.md)
 {% endstep %}
 
 {% step %}
-#### [Install/Pair Automation Devices](home/install-pair-automation-devices.md)
+[**Install/Pair Automation Devices**](home/install-pair-automation-devices.md)
 {% endstep %}
 
 {% step %}
-#### [Program/Install Sensors](home/program-install-sensors.md)
+[**Program/Install Sensors**](home/program-install-sensors.md)
 {% endstep %}
 
 {% step %}
-#### [Run Installer Test](home/run-installer-test.md)
+[**Run Installer Test**](home/run-installer-test.md)
 {% endstep %}
 
 {% step %}
-#### [Final Walkthrough](home/final-walktghrough.md)
+[**Final Walkthrough**](home/final-walktghrough.md)
 {% endstep %}
 
 {% step %}
-#### [Customer Instructions](home/customer-instructions.md)
+[**Customer Instructions**](home/customer-instructions.md)
 {% endstep %}
 {% endstepper %}
