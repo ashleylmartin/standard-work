@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Standard Work](README.md)
+* [Home](README.md)
   * [1. Power Up/Flash the Panel](home/power-up-flash-the-panel.md)
   * [2. Zigbee Bridge](home/zigbee-bridge.md)
   * [3. Install the DBC Pro](home/install-the-dbc-pro.md)
