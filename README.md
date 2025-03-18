@@ -4,7 +4,7 @@ description: >-
   consistent way to perform a Vivint installation and establishes a performance
   baseline for quality, efficiency, and safety.
 noRobotsIndex: true
-icon: door-open
+icon: screwdriver-wrench
 cover: .gitbook/assets/Standard Work Web Banner.png
 coverY: -21.72
 layout:

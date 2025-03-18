@@ -1,6 +1,11 @@
 ---
 icon: garage-open
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -13,13 +18,13 @@ layout:
     visible: true
 ---
 
-# Install/Pair Automation Devices
+# 10. Install/Pair Automation Devices
 
 <div><figure><img src="../.gitbook/assets/web_use-Therm-Swappable1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-LockOut-Swappable.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-MYQ-a-swappable.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
-#### Install applicable Automation device(s).
+### Install applicable Automation device(s).
 
 * [Smart Lock](https://prosource.vivint.com/sop-smart-locks/)
 * [Smart Thermostat](https://prosource.vivint.com/element-v2-sop/)
@@ -34,7 +39,7 @@ layout:
 {% endstep %}
 
 {% step %}
-#### Pair Automation device(s).
+### Pair Automation device(s).
 
 1. Devices must be in their final location before pairing. This will ensure they will communicate with the panel.
 2. Each device must be named according to the location where it is installed.

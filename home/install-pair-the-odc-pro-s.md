@@ -1,6 +1,11 @@
 ---
 icon: camera-security
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,14 +24,14 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Install the ODC Pro(s).
+### Install the ODC Pro(s).
 
 * Use the AirPort Utility app to identify the best location for the Wi-Fi bridge.
   * Must be -65 or better from the Wi-Fi bridge to the panel.
 {% endstep %}
 
 {% step %}
-#### Pair the ODC Pro(s).
+### Pair the ODC Pro(s).
 
 * Once the pairing process begins, move onto the next step. Let the camera fully update and come online before doing other programming.
   * If installing multiple ODC’s, repeat steps 1 and 2.

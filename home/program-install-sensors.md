@@ -1,6 +1,11 @@
 ---
 icon: sensor-triangle-exclamation
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Program all sensors.
+### Program all sensors.
 
 1. Each sensor must be named according to the location it will be installed.
 2. **DO NOT** name sensors with general names like "Window," "Window 1," etc. Be specific.
@@ -27,7 +32,7 @@ layout:
 {% endstep %}
 
 {% step %}
-#### Install all sensors in their final locations.
+### Install all sensors in their final locations.
 {% endstep %}
 {% endstepper %}
 

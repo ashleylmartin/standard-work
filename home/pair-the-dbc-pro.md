@@ -1,6 +1,11 @@
 ---
 icon: circle-wifi-circle-wifi
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Pair the DBC Pro.
+### Pair the DBC Pro.
 
 * Once the pairing process begins, move onto the next step. Let the camera fully update and come online before doing other programming.
 {% endstep %}

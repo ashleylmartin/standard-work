@@ -1,6 +1,11 @@
 ---
 icon: panel-fire
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,14 +24,14 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Determine panel location.
+### Determine panel location.
 
 * Use the [Airport Utility App](https://prosource.vivint.com/airport-utility-app-sop/) to identify the best location(s) for the panel.
 * The DBC and the customer's Wi-Fi are in fixed locations. The panel must be in a location where connection to both the DBC and the Wi-Fi router is -65 or better.
 {% endstep %}
 
 {% step %}
-#### Mount the panel.
+### Mount the panel.
 
 1. Use a level.
 2. Use at least 4 screws to secure the wall mount.

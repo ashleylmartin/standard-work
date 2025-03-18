@@ -1,6 +1,11 @@
 ---
 icon: door-closed
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: -189
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Install the DBC Pro.
+### Install the DBC Pro.
 
 * The DBC will be in a fixed location. It needs to be installed first to help determine where the panel is going to be located.
 {% endstep %}

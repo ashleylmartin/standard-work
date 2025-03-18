@@ -1,6 +1,11 @@
 ---
 icon: circle-wifi
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: -187
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Connect the Panel to Wi-Fi and register.
+### Connect the Panel to Wi-Fi and register.
 
 * Registering the panel at the beginning of the install is beneficial for the following reasons:
   * Identify potential issues with cell unit. If the cell unit needs activated or additional troubleshooting, you can do this while continuing with other work.

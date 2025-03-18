@@ -1,6 +1,11 @@
 ---
 icon: circle-camera
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Pair the IDC Pro(s).
+### Pair the IDC Pro(s).
 
 * Plug the camera in close to the panel for pairing.
 * After the camera is online and updated, customer can relocate to desired location.

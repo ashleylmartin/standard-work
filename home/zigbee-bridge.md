@@ -1,6 +1,11 @@
 ---
 icon: arrows-to-circle
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: -189
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,7 +24,7 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Plug Zigbee Bridge into the customer's router (if installing lighting).
+### Plug Zigbee Bridge into the customer's router (if installing lighting).
 
 * The Zigbee bridge will take up to 15 minutes to update. Starting this process at the beginning of the install will ensure the update is complete when you start pairing Zigbee devices.
 {% endstep %}

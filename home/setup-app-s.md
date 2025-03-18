@@ -1,6 +1,11 @@
 ---
 icon: mobile-screen-button
+cover: ../.gitbook/assets/Standard Work Web Banner.png
+coverY: -177
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -19,13 +24,13 @@ layout:
 
 {% stepper %}
 {% step %}
-#### Vivint App
+### Vivint App
 
 Send invite for [Vivint App](https://prosource.vivint.com/vivint-app/) and have customer create account.
 {% endstep %}
 
 {% step %}
-#### MyQ App
+### MyQ App
 
 If installing MyQ, instruct customer to download the MyQ app and create account.
 {% endstep %}
