@@ -45,3 +45,10 @@ layout:
 2. Each device must be named according to the location where it is installed.
 {% endstep %}
 {% endstepper %}
+
+### Workflows
+
+{% content-ref url="../workflows/hvac.md" %}
+[hvac.md](../workflows/hvac.md)
+{% endcontent-ref %}
+
