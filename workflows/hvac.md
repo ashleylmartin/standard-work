@@ -24,7 +24,7 @@ layout:
 
 # HVAC/Thermostat Flow
 
-Why do we have a thermostat "flow?"
+### Why do we have a thermostat "flow?"
 
 We have many stakeholders at Vivint who depend on the proper execution of the thermostat flow to support our field installers and customers. Here are just a few:
 
