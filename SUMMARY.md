@@ -2,7 +2,7 @@
 
 ## Standard Work
 
-* [Welcome Home](README.md)
+* [What is Standard Work?](README.md)
 * [1. Power Up/Flash the Panel](standard-work/power-up-flash-the-panel.md)
 * [2. Zigbee Bridge](standard-work/zigbee-bridge.md)
 * [3. Install the DBC Pro](standard-work/install-the-dbc-pro.md)

@@ -23,36 +23,28 @@ layout:
     visible: true
 ---
 
-# Welcome Home
+# What is Standard Work?
 
-<details>
+**Standard Work** is a description of the most efficient, effective, and consistent way to perform a specific task or process. At Vivint, Standard Work establishes a baseline for how tasks should be performed, ensuring quality, efficiency, and safety while providing a foundation for continuous improvement.
 
-<summary>What is "Standard Work?"</summary>
-
-**Standard Work** is a detailed and documented description of the most efficient, effective, and consistent way to perform a specific task or process. Standard Work establishes a baseline for how tasks should be performed, ensuring quality, efficiency, and safety while providing a foundation for continuous improvement.
-
-</details>
-
-<details>
-
-<summary>Benefits of Standard Work</summary>
+{% hint style="info" %}
+### Benefits of Standard Work
 
 * **Consistency:** Reduces variability and ensures tasks are performed uniformly.
 * **Quality Improvement:** Minimizes errors and defects.
 * **Efficiency:** Identifies and eliminates waste in processes.
 * **Training:** Serves as a guide for training employees.
+{% endhint %}
 
-</details>
-
-<details>
-
-<summary>Pro Tips</summary>
+{% hint style="success" %}
+### Pro Tips
 
 * Always follow all [Safety protocols](https://prosource.vivint.com/sop-library/#button-general_safety).
 * Multi-task while waiting for updates to complete.
 * **DO NOT** pair any devices with the panel on battery power.
+{% endhint %}
 
-</details>
+## Standard Work Process
 
 {% stepper %}
 {% step %}
