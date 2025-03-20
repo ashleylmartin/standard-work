@@ -41,7 +41,7 @@ We have many stakeholders at Vivint who depend on the proper execution of the th
 * Prevent damage with **properly-trimmed copper wiring.**
 {% endhint %}
 
-### Improved Pro Accuracy
+### Improving Pro Accuracy
 
 <details>
 
