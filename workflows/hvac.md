@@ -24,15 +24,7 @@ layout:
 
 # HVAC/Thermostat Flow
 
-### Why do we have a thermostat "flow?"
-
-We have many stakeholders at Vivint who depend on the proper execution of the thermostat flow to support our field installers and customers. Here are just a few:
-
-* **Customer Care:**  Troubleshooting with customers.
-* **Field Tech Support:**  Troubleshooting with Pros.
-* **Home Damage Team:**  Processing home damage claims.
-
-{% hint style="danger" %}
+{% hint style="success" %}
 ### Thermostat Flow Best Practices
 
 * Take level and clear photos of the before/after thermostat wiring and wall plate setup. **Blurry or unfocused pictures should NOT be used.**
@@ -40,6 +32,14 @@ We have many stakeholders at Vivint who depend on the proper execution of the th
 * Ensure the thermostat is **correctly programed** (including identifying the **HVAC fuel type**).
 * Prevent damage with **properly-trimmed copper wiring.**
 {% endhint %}
+
+### Why do we have a thermostat "flow?"
+
+We have many stakeholders at Vivint who depend on the proper execution of the thermostat flow to support our field installers and customers. Here are just a few:
+
+* **Customer Care:**  Troubleshooting with customers.
+* **Field Tech Support:**  Troubleshooting with Pros.
+* **Home Damage Team:**  Processing home damage claims.
 
 ### Improving Pro Accuracy
 
