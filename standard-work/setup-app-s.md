@@ -36,7 +36,11 @@ Send invite for [Vivint App](https://prosource.vivint.com/vivint-app/) and have 
 {% step %}
 ### MyQ App
 
-If installing MyQ, instruct customer to download the MyQ app and create account.
+If installing MyQ, instruct customer to download the MyQ app and create account.&#x20;
+
+{% hint style="warning" %}
+**The customer MUST go through the process of downloading the MyQ App and setting up their account before the MyQ Hub can be integrated.**
+{% endhint %}
 
 {% hint style="info" %}
 [MyQ Smart Garage Hub on ProSource](https://prosource.vivint.com/smart-garage-hub-product-sop/)
