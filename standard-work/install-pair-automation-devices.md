@@ -35,7 +35,7 @@ layout:
 * [Smart Lighting](https://prosource.vivint.com/smart-lighting/)\*
 
 {% hint style="info" %}
-\*If installing smart lighting, these **do not** need to be installed in their final location before pairing. Pairing should take place next to the Zigbee bridge first before installing.
+**If installing smart lighting, these do not need to be installed in their final location before pairing. Pairing should take place next to the Zigbee bridge first before installing.**
 {% endhint %}
 {% endstep %}
 
