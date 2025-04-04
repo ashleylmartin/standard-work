@@ -24,15 +24,15 @@ layout:
 
 {% stepper %}
 {% step %}
-### Pair the DBC Pro.
+### Ensure the DBC Pro is running the latest firmware.
 
-* Once the pairing process begins, move onto the next step. Let the camera fully update and come online before doing other programming.
+Click [here](https://prosource.vivint.com/dbc-update-instructions/) for instructions on how to create a USB stick to flash the DBC's firmware, as well as installation best practices (applies to DBC Pro Gen 1 and Gen 2).
 {% endstep %}
 
 {% step %}
-### Ensure the doorbell is running the latest firmware.
+### Pair the DBC Pro.
 
-Click [here](https://prosource.vivint.com/dbc-update-instructions/) for instructions on how to create a USB stick to flash the DBC's firmware, as well as installation best practices (applies to DBC Pro Gen 1 and Gen 2).
+* Once the pairing process begins, move onto the next step. Let the camera fully update and come online before doing other programming.
 {% endstep %}
 {% endstepper %}
 
