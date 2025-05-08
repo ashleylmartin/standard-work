@@ -20,7 +20,7 @@ layout:
 
 # 4. Connect/Register the Panel
 
-<div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
@@ -36,4 +36,3 @@ layout:
 {% hint style="info" %}
 [Smart Hub on ProSource](https://prosource.vivint.com/sop-smart-hub/)
 {% endhint %}
-

@@ -20,7 +20,7 @@ layout:
 
 # 9. Pair the IDC Pro(s)
 
-<div align="left"><figure><img src="../.gitbook/assets/web_use-IDCP.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-IDCP.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

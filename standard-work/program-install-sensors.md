@@ -20,7 +20,7 @@ layout:
 
 # 11. Program/Install Sensors
 
-<div><figure><img src="../.gitbook/assets/web_use-Smoke-CO-Swappable.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-GlassBreak-Swappable.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-Motion.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-Smoke-CO-Swappable.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-GlassBreak-Swappable.jpg" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/web_use-Motion.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

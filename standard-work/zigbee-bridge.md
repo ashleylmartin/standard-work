@@ -20,7 +20,7 @@ layout:
 
 # 2. Zigbee Bridge
 
-<div align="left"><figure><img src="../.gitbook/assets/web_use-lighting-bridge.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-lighting-bridge.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

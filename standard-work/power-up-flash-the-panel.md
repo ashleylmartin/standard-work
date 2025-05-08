@@ -23,18 +23,18 @@ layout:
 {% hint style="danger" %}
 ### CRITICAL: Panel Firmware Update Available
 
-A new panel firmware release (Version 3.25.0.57651) is now live. This includes the **1.2.40.163.rc Camera Firmware,** which is critical to reducing the current surge in camera offline issues. To expedite rollout, we are adjusting the typical USB update timeline.
+A **critical panel firmware update** (v3.25.1.58359) is now live and includes our latest **camera firmware (1.2.40.163.rc)** to address rising camera offline issues.
 
-• **Release Date:** Friday, April 18
+• **Release Date:** Thursday, May 7th
 
-• **USB Update Deadline:** End of day Tuesday, April 22
+• **USB Update Deadline:** End of day Monday, May 13th
 
-• **Enforcement Begins:** Tuesday, April 22
+• **Enforcement Begins:** Monday, May 13th
 
-• **SOP for USB Update:** [https://prosource.vivint.com/pre-install-usb-update-sop/](https://prosource.vivint.com/pre-install-usb-update-sop/)
+• **SOP for USB Update:** [https://prosource.vivint.com/2025/05/new-panel-firmware-3-25-1-58359-available-today-usb-update-required-by-5-13-25/](https://prosource.vivint.com/2025/05/new-panel-firmware-3-25-1-58359-available-today-usb-update-required-by-5-13-25/)
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-SmartHub-Ready.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

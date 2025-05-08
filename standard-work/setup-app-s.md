@@ -20,7 +20,7 @@ layout:
 
 # 5. Setup App(s)
 
-<div align="left"><figure><img src="../.gitbook/assets/web_use-Phone-Swappable.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-Phone-Swappable.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

@@ -20,7 +20,7 @@ layout:
 
 # 7. Pair the DBC Pro
 
-<div align="left"><figure><img src="../.gitbook/assets/web_use-DBCP-Swappable.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/web_use-DBCP-Swappable.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
