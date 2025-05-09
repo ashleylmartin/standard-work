@@ -20,6 +20,12 @@ layout:
 
 # 8. Install/Pair the ODC Pro(s)
 
+{% hint style="danger" %}
+#### POTENTIAL DAMAGE:  Over-Rotation During Installation
+
+**CRITICAL:** When tightening the collar of the camera after determining the angle the camera will point in, be sure to hold the camera head stationary while rotating the locking collar in a counterclockwise direction facing the camera. **Do Not Rotate the Camera Head to Tighten.**
+{% endhint %}
+
 <div align="left"><figure><img src="../.gitbook/assets/web_use-SpotlightPro-Swappable.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% stepper %}
