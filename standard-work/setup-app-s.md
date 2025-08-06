@@ -2,20 +2,6 @@
 icon: mobile-screen-button
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: -177
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 5. Setup App(s)

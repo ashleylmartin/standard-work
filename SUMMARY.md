@@ -18,6 +18,17 @@
 * [13. Final Walktghrough](standard-work/final-walktghrough.md)
 * [14. Customer Instructions](standard-work/customer-instructions.md)
 
+## HBE (Home Based Essentials) <a href="#hbe" id="hbe"></a>
+
+* [HBE Introduction](hbe/hbe-introduction.md)
+* [1. HBE Tools / Equipment](hbe/1.-hbe-tools-equipment.md)
+* [2. Router / Thermostat](hbe/2.-router-thermostat.md)
+* [3. Doorbell / Chime](hbe/3.-doorbell-chime.md)
+* [4. Thermostat Flow](hbe/4.-thermostat-flow.md)
+* [5. Finish DBC Installation](hbe/5.-finish-dbc-installation.md)
+* [6. App & Devices Setup](hbe/6.-app-and-devices-setup.md)
+* [7. Key Points](hbe/7.-key-points.md)
+
 ## Workflows
 
 * [HVAC/Thermostat Flow](workflows/hvac.md)

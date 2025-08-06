@@ -2,20 +2,6 @@
 icon: circle-wifi
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: -187
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 4. Connect/Register the Panel

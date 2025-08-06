@@ -2,20 +2,6 @@
 icon: door-closed
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: -189
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 3. Install the DBC Pro

@@ -7,23 +7,9 @@ noRobotsIndex: true
 icon: person-shelter
 cover: .gitbook/assets/Standard Work Web Banner.png
 coverY: -21.72
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# What is Standard Work?
+# Introduction
 
 **Standard Work** is a description of the most efficient, effective, and consistent way to perform a specific task or process. At Vivint, Standard Work establishes a baseline for how tasks should be performed, ensuring quality, efficiency, and safety while providing a foundation for continuous improvement.
 

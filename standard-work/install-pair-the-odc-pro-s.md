@@ -2,20 +2,6 @@
 icon: camera-security
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 8. Install/Pair the ODC Pro(s)
