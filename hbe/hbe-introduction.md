@@ -4,7 +4,7 @@ description: >-
   Essentials (HBE) packages, including thermostats, doorbell cameras, and Wi-Fi
   extenders.
 noIndex: true
-icon: house-flag
+icon: message-exclamation
 cover: ../.gitbook/assets/LinkedIn Cover (1).png
 coverY: 0
 ---
