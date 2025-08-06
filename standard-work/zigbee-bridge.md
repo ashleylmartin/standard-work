@@ -2,7 +2,24 @@
 noIndex: true
 icon: arrows-to-circle
 cover: ../.gitbook/assets/Standard Work Web Banner.png
-coverY: -189
+coverY: -43.478260869565226
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 2. Zigbee Bridge
