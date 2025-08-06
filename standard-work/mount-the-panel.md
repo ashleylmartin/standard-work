@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: panel-fire
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0

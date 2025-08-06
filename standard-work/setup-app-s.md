@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: mobile-screen-button
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: -177

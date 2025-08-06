@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: person-walking-arrow-right
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0

@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: circle-wifi-circle-wifi
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0

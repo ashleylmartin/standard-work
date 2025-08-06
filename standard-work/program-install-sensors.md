@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: sensor-triangle-exclamation
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0

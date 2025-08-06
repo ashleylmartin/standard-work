@@ -3,6 +3,7 @@ description: >-
   The Thermostat Flow in Tech Genie is a tool that captures important details
   about thermostat installations. These details are critical to the overall
   installation process and must be documented.
+noIndex: true
 icon: air-conditioner
 cover: ../.gitbook/assets/Standard Work - Workflows Web Banner.png
 coverY: -11.10997442455243

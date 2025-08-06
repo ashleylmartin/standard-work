@@ -1,4 +1,5 @@
 ---
+noIndex: true
 icon: message-exclamation
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0
