@@ -1,6 +1,5 @@
 ---
 noIndex: true
-icon: face-smile
 cover: .gitbook/assets/LinkedIn Cover (1).png
 coverY: 0
 layout:
@@ -13,7 +12,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: false
   pagination:
@@ -26,6 +25,6 @@ layout:
 
 <h2 align="center">Select your workflow below to get started:</h2>
 
-<p align="center"><a href="broken-reference" class="button primary" data-icon="screwdriver-wrench">Standard Works for Installs</a></p>
+<p align="center"><a href="broken-reference" class="button primary" data-icon="screwdriver-wrench">Standard Works for Regular Installs</a></p>
 
 <p align="center"><a href="broken-reference" class="button primary" data-icon="house-flag">Standard Works for HBE (Home Based Essentials)</a></p>

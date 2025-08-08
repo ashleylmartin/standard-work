@@ -5,7 +5,7 @@ description: >-
   baseline for quality, efficiency, and safety.
 noRobotsIndex: true
 icon: person-shelter
-cover: .gitbook/assets/Standard Work Web Banner.png
+cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: -21.72
 ---
 
@@ -34,58 +34,58 @@ coverY: -21.72
 
 {% stepper %}
 {% step %}
-[**Power Up/Flash the Panel**](standard-work/power-up-flash-the-panel.md)
+[**Power Up/Flash the Panel**](power-up-flash-the-panel.md)
 {% endstep %}
 
 {% step %}
-[**Zigbee Bridge**](standard-work/zigbee-bridge.md)
+[**Zigbee Bridge**](zigbee-bridge.md)
 {% endstep %}
 
 {% step %}
-[**Install the DBC Pro**](standard-work/install-the-dbc-pro.md)
+[**Install the DBC Pro**](install-the-dbc-pro.md)
 {% endstep %}
 
 {% step %}
-[**Connect/Register the Panel**](standard-work/connect-register-the-panel.md)
+[**Connect/Register the Panel**](connect-register-the-panel.md)
 {% endstep %}
 
 {% step %}
-[**Setup App(s)**](standard-work/setup-app-s.md)
+[**Setup App(s)**](setup-app-s.md)
 {% endstep %}
 
 {% step %}
-[**Mount the Panel**](standard-work/mount-the-panel.md)
+[**Mount the Panel**](mount-the-panel.md)
 {% endstep %}
 
 {% step %}
-[**Pair the DBC Pro**](standard-work/pair-the-dbc-pro.md)
+[**Pair the DBC Pro**](pair-the-dbc-pro.md)
 {% endstep %}
 
 {% step %}
-[**Install/Pair the ODC Pro(s)**](standard-work/install-pair-the-odc-pro-s.md)
+[**Install/Pair the ODC Pro(s)**](install-pair-the-odc-pro-s.md)
 {% endstep %}
 
 {% step %}
-[**Pair the IDC Pro(s)**](standard-work/pair-the-idc-pro-s.md)
+[**Pair the IDC Pro(s)**](pair-the-idc-pro-s.md)
 {% endstep %}
 
 {% step %}
-[**Install/Pair Automation Devices**](standard-work/install-pair-automation-devices.md)
+[**Install/Pair Automation Devices**](install-pair-automation-devices.md)
 {% endstep %}
 
 {% step %}
-[**Program/Install Sensors**](standard-work/program-install-sensors.md)
+[**Program/Install Sensors**](program-install-sensors.md)
 {% endstep %}
 
 {% step %}
-[**Run Installer Test**](standard-work/run-installer-test.md)
+[**Run Installer Test**](run-installer-test.md)
 {% endstep %}
 
 {% step %}
-[**Final Walkthrough**](standard-work/final-walktghrough.md)
+[**Final Walkthrough**](final-walktghrough.md)
 {% endstep %}
 
 {% step %}
-[**Customer Instructions**](standard-work/customer-instructions.md)
+[**Customer Instructions**](customer-instructions.md)
 {% endstep %}
 {% endstepper %}
