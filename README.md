@@ -1,5 +1,6 @@
 ---
 noIndex: true
+icon: screwdriver-wrench
 cover: .gitbook/assets/LinkedIn Cover (1).png
 coverY: 0
 layout:
@@ -12,19 +13,19 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: false
 ---
 
-# Welcome to Standard Work
+# Standard Work
 
-<h2 align="center">Select your workflow below to get started:</h2>
+## Select your workflow:
 
-<p align="center"><a href="broken-reference" class="button primary" data-icon="screwdriver-wrench">Standard Works for Regular Installs</a></p>
+<a href="broken-reference" class="button primary" data-icon="screwdriver-wrench">Standard Install</a>
 
-<p align="center"><a href="broken-reference" class="button primary" data-icon="house-flag">Standard Works for HBE (Home Based Essentials)</a></p>
+<a href="broken-reference" class="button primary" data-icon="house-flag">Home Based Essentials</a>
