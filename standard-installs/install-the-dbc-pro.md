@@ -21,3 +21,4 @@ coverY: -189
 [DBC Pro on ProSource](https://prosource.vivint.com/sop-dbc-pro-gen2/)
 {% endhint %}
 
+<a href="https://vivint-my.sharepoint.com/:w:/p/bheath2/ESfgZreYjvhDuyFBIPv9cNEBzdNHyWLKOhKjudOQOy20Vg?e=kCvVaJ" class="button primary" data-icon="head-side-goggles">DBC Install Audit Checklist (for Managers)</a>
