@@ -17,8 +17,10 @@ coverY: -189
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
-[DBC Pro on ProSource](https://prosource.vivint.com/sop-dbc-pro-gen2/)
-{% endhint %}
+{% hint style="success" %}
+### DBC Pro Resources
 
-<a href="https://vivint-my.sharepoint.com/:w:/p/bheath2/ESfgZreYjvhDuyFBIPv9cNEBzdNHyWLKOhKjudOQOy20Vg?e=kCvVaJ" class="button primary" data-icon="head-side-goggles">DBC Install Audit Checklist (for Managers)</a>
+* [DBC Pro on ProSource](https://prosource.vivint.com/sop-dbc-pro-gen2/)
+* [DBC Power Uptraining](https://vivint-my.sharepoint.com/:p:/g/personal/ashley_martin_vivint_com1/EXWoYT4fWhxOo5qpfU7TftsBCbj5N9IGB94I4kPP_7pHVg?e=a0JzO2)
+* [DBC Install Audit Checklist (for Managers)](https://vivint-my.sharepoint.com/:w:/p/bheath2/ESfgZreYjvhDuyFBIPv9cNEBzdNHyWLKOhKjudOQOy20Vg?e=kCvVaJ)
+{% endhint %}

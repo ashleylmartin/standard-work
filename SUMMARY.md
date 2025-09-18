@@ -20,16 +20,16 @@
 * [13. Final Walktghrough](standard-installs/final-walktghrough.md)
 * [14. Customer Instructions](standard-installs/customer-instructions.md)
 
-## HOME BASED ESSENTIALS <a href="#hbe" id="hbe"></a>
+## VIVINT HOME ESSENTIALS <a href="#vhe" id="vhe"></a>
 
-* [HBE Introduction](hbe/hbe-introduction.md)
-* [1. Tools / Equipment](hbe/1.-tools-equipment.md)
-* [2. Router / Thermostat](hbe/2.-router-thermostat.md)
-* [3. Doorbell / Chime](hbe/3.-doorbell-chime.md)
-* [4. Thermostat Installation](hbe/4.-thermostat-installation.md)
-* [5. DBC Installation](hbe/5.-dbc-installation.md)
-* [6. App & Devices Setup](hbe/6.-app-and-devices-setup.md)
-* [7. Key Points](hbe/7.-key-points.md)
+* [VHE Introduction](vhe/vhe-introduction.md)
+* [1. Tools / Equipment](vhe/1.-tools-equipment.md)
+* [2. Router / Thermostat](vhe/2.-router-thermostat.md)
+* [3. Doorbell / Chime](vhe/3.-doorbell-chime.md)
+* [4. Thermostat Installation](vhe/4.-thermostat-installation.md)
+* [5. DBC Installation](vhe/5.-dbc-installation.md)
+* [6. App & Devices Setup](vhe/6.-app-and-devices-setup.md)
+* [7. Key Points](vhe/7.-key-points.md)
 
 ## Workflows
 

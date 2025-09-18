@@ -1,7 +1,7 @@
 ---
 description: >-
-  This document provides a step-by-step guide for installing Home-Based
-  Essentials (HBE) packages, including thermostats, doorbell cameras, and Wi-Fi
+  This document provides a step-by-step guide for installing Vivint Home
+  Essentials (VHE) packages, including thermostats, doorbell cameras, and Wi-Fi
   extenders.
 noIndex: true
 icon: message-exclamation
@@ -26,15 +26,15 @@ layout:
     visible: true
 ---
 
-# HBE Introduction
+# VHE Introduction
 
-## What is "Home-Based Essentials?"
+## What is "Vivint Home Essentials?"
 
-Home Base Essentials (HBE) is our standalone program created to increase customer engagement with smart home technology. The HBE package provides customers with a free standalone system from their energy provider to begin their journey with Vivint.
+Vivint Home Essentials (VHE) is our standalone program created to increase customer engagement with smart home technology. The VHE package provides customers with a free standalone system from their energy provider to begin their journey with Vivint.
 
 This system functions autonomously without linking to Vivint’s professional monitoring services. Instead, the customer is prompted to consider upgrades for a more comprehensive smart home experience with professional monitoring.
 
-## What's in the HBE Package?
+## What's in the VHE Package?
 
 <div align="left"><figure><img src="../.gitbook/assets/Home Base Essentials Training.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
