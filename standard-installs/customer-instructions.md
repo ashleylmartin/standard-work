@@ -3,6 +3,23 @@ noIndex: true
 icon: person-rays
 cover: ../.gitbook/assets/Standard Work Web Banner.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 14. Customer Instructions

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Standard Work](README.md)
+* [Standard Works](README.md)
 
 ## Standard Installs
 
