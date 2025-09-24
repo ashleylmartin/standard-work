@@ -36,11 +36,9 @@ This system functions autonomously without linking to Vivint’s professional mo
 
 ## What's in the VHE Package?
 
-<div align="left"><figure><img src="../.gitbook/assets/Home Base Essentials Training.png" alt="" width="563"><figcaption></figcaption></figure></div>
-
 The customer’s energy provider will supply the customer with the introductory package. The following products make this system a true standalone system, but with the Hub allowing the customer to view and navigate the following products:
 
-* **SmartHub (1)**
+* **Zigbee Bridge**
 * **Doorbell Camera Pro (1)**
 * **Element Thermostat (1)**
 * **Chime Extender (1)**
