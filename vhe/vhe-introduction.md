@@ -42,3 +42,7 @@ The customer’s energy provider will supply the customer with the introductory 
 * **Chime Extender (1)**
 * **Element Thermostat (1)**
 * **Zigbee Bridge (1)**
+
+{% hint style="warning" %}
+Review the [VHE Install & Audit Checklist](../resources/vhe-install-and-audit-checklist.md) and the [hvac.md](../resources/hvac.md "mention") for in-depth guidance.
+{% endhint %}
