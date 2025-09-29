@@ -15,7 +15,7 @@ coverY: 0
 
 * [Smart Lock](https://prosource.vivint.com/sop-smart-locks/)
 * [Smart Thermostat](https://prosource.vivint.com/element-v2-sop/)
-  * [hvac.md](../workflows/hvac.md "mention")
+  * [hvac.md](../resources/hvac.md "mention")
 * [MyQ](https://prosource.vivint.com/smart-garage-hub-product-sop/)
 * [Chime Extender](https://prosource.vivint.com/chime-extender/)
 * [Lamp Module](https://prosource.vivint.com/lamp-module/)
@@ -36,6 +36,6 @@ coverY: 0
 
 ### Workflows
 
-{% content-ref url="../workflows/hvac.md" %}
-[hvac.md](../workflows/hvac.md)
+{% content-ref url="../resources/hvac.md" %}
+[hvac.md](../resources/hvac.md)
 {% endcontent-ref %}

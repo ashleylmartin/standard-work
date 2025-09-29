@@ -7,6 +7,23 @@ noIndex: true
 icon: air-conditioner
 cover: ../.gitbook/assets/Standard Work - Workflows Web Banner.png
 coverY: -11.10997442455243
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # HVAC/Thermostat Flow

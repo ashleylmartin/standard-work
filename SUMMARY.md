@@ -31,6 +31,7 @@
 * [6. App & Devices Setup](vhe/6.-app-and-devices-setup.md)
 * [7. Key Points](vhe/7.-key-points.md)
 
-## Workflows
+## Resources
 
-* [HVAC/Thermostat Flow](workflows/hvac.md)
+* [VHE Install & Audit Checklist](resources/vhe-install-and-audit-checklist.md)
+* [HVAC/Thermostat Flow](resources/hvac.md)
